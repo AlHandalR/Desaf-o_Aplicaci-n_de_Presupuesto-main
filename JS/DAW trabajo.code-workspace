@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/Tareas de la U/DAW trabajo de anime"
+		},
+		{
+			"path": "../../../Documents/Tareas de la U/DAW trabajo de anime/Pagina Web"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DAW trabajo de anime"
+	}
+}
